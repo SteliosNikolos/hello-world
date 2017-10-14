@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello everyone!
+
+Stelios Nikolos in da house!
